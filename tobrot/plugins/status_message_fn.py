@@ -62,7 +62,7 @@ async def status_message_f(client, message):
             gid_dict[chat_id].pop()
             gid_dict[chat_id].append(mess_id)
 
-    prev_mess = "By GopalSaraf"
+    prev_mess = "By AM_ROBOTS"
     while True:
         downloads = aria_i_p.get_downloads()
         msg = ""
@@ -349,7 +349,7 @@ async def upload_log_file(client, message):
 # /uploadvid - to upload files streamable
 # /uploaddoc - to upload files as a document
 #
-# For anything else.. DM **@GopalSaraf**
+# For anything else.. DM **@AM_ROBOTS**
 # **THANK YOU!**
 # 😊😊😊
 # """)
